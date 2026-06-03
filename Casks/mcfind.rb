@@ -1,6 +1,6 @@
 cask "mcfind" do
-  version "0.2.5"
-  sha256 "6014217aeb63bdb469882e9f42288216437a4b300bb53451877dbbbafa7135bc"
+  version "0.2.6"
+  sha256 "4a812e0c1e8a2ca4495fef68b582b0ac49fc826cc711801c538909c58f981284"
 
   url "https://github.com/ntufar/mcfind/releases/download/v#{version}/McFind.dmg"
   name "McFind"
